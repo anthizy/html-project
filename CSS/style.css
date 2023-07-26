@@ -1,0 +1,96 @@
+.navbar { 
+    overflow: hidden;
+   background-color: rgba(67, 67, 165, 0.716);
+}
+
+ .navbar a { 
+
+    float: left;
+    text-align: center;
+    color: whitesmoke;
+    padding: 14px 16px;
+    font-size: 17px;
+    text-decoration: none;
+ }
+ .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+main {
+   margin: 0px;
+   text-align: center;
+   background-color: whitesmoke;
+   display: inline;
+   
+}
+ 
+img{
+   height: 500px ;
+   width: 500px;
+   border-radius: 400%;
+   margin:50px ;
+}
+
+h1{
+   font-size: 60px;
+   margin: 0.001px;
+
+}
+p{
+   font-style: calc();
+   line-height: 2;
+   
+}
+
+#coloured{
+    color: rgb(91, 91, 161);
+    font-style: oblique;
+    font-size:20px ;
+}
+h2{ 
+   font-size: 60px;
+   margin: 10px;
+
+ }
+ .lightblue{
+    color: rgb(91, 91, 161);
+   font-style: oblique;
+   font-size:20px ;
+} 
+.top{ 
+   width: 50%;
+   margin: auto;
+   
+   
+}
+
+.middle { 
+   width: 50%;
+   margin: auto;
+   padding: 25px;;
+} 
+
+hr{
+   width: 50%;
+}
+
+footer{ 
+
+   text-align: center;
+    background-color:  rgb(161, 161, 247);
+    text-decoration: none;
+    color: white;
+    margin-top: 50px;
+	margin-bottom: 0px;
+}
+.f-link{
+   text-decoration: none;
+   color:white ;
+}
+.page2{
+   color: rgb(91, 91, 161);
+   font-style: oblique;
+   font-size: 60px;
+} 
+h2{ display: inline;}
